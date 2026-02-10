@@ -12,6 +12,9 @@
 - GitHub Basics
 - Project Management
 - App और Website की समझ
+- • 📘 GitHub Basics
+• 🛠️ Project Management
+• 🌐 App और Website की समझ
 
 ## संपर्क
 - GitHub Profile: https://github.com/dbanshiwal83-bot
