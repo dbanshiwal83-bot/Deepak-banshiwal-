@@ -9,9 +9,11 @@
 - यह Repository मेरी सीख और प्रोजेक्ट्स के लिए है
 
 ## अभी क्या सीख रहा हूँ
-- • 📘 GitHub Basics
-• 🛠️ Project Management
-• 🌐 App और Website की समझ 
+🔥 GitHub Stats जोड़ना
+📊 Contribution Graph
+🛠 Skills सेक्शन
+🚀 Future Goals
+Badges
 
 ## संपर्क
 - GitHub Profile: https://github.com/dbanshiwal83-bot
