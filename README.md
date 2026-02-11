@@ -9,12 +9,9 @@
 - यह Repository मेरी सीख और प्रोजेक्ट्स के लिए है
 
 ## अभी क्या सीख रहा हूँ
-- GitHub Basics
-- Project Management
-- App और Website की समझ
 - • 📘 GitHub Basics
 • 🛠️ Project Management
-• 🌐 App और Website की समझ
+• 🌐 App और Website की समझ 
 
 ## संपर्क
 - GitHub Profile: https://github.com/dbanshiwal83-bot
